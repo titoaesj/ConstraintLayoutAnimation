@@ -2,7 +2,7 @@
 
 Animação utilizando ConstraintLayoutAnimation e ConstraintSet.
 
-![](https://github.com/titoaesj/ConstraintLayoutAnimation/blob/master/demo.mp4)
+![](https://github.com/titoaesj/ConstraintLayoutAnimation/blob/master/demo.gif)
 
 # License
 

@@ -1,11 +1,9 @@
 # Android - ConstraintLayoutAnimation 🎬
 
 <br/>
-<br/>
 
 Animação utilizando ConstraintLayoutAnimation e ConstraintSet.
 
-<br/>
 <br/>
 
 <div align="center">

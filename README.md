@@ -1,10 +1,16 @@
-# Android - ConstraintLayoutAnimation
+# Android - ConstraintLayoutAnimation 🎬
 
-Animação utilizando ConstraintLayoutAnimation e ConstraintSet. 🎬
+Animação utilizando ConstraintLayoutAnimation e ConstraintSet.
+
+
+ 
 
 <div align="center">
     <img src="https://github.com/titoaesj/ConstraintLayoutAnimation/blob/master/demo.gif" alt="demo app" width="440" height="783"/>
 </div>
+
+
+
 
 # License
 

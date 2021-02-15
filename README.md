@@ -1,7 +1,8 @@
-# ConstraintLayoutAnimation
-Usando ConstraintSet para animação
+# Android - ConstraintLayoutAnimation
 
-![](https://github.com/titoaesj/ConstraintLayoutAnimation/blob/master/demo.gif)
+Animação utilizando ConstraintLayoutAnimation e ConstraintSet.
+
+![](https://github.com/titoaesj/ConstraintLayoutAnimation/blob/master/demo.mp4)
 
 # License
 
